@@ -1,0 +1,9 @@
+body {
+    background-color: white;
+    font-family: serif;
+}
+    div.container {
+        width: 800px;
+        margin: 0 auto;
+        background-color: white;
+    }
